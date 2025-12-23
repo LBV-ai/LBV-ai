@@ -1,4 +1,6 @@
 ## Hi there, and yes its my photo :)
-
-## 📄 CV
-[Download my CV](https://github.com/LBV-ai/cv/blob/main/cv_Bronislav_Li_public.pdf)
+<iframe
+  src="[https:///yourusername/repositoryname/main/CV.pdf](https://raw.githubusercontent.com/LBV-ai/cv/blob/main/cv_Bronislav_Li_public.pdf
+  width="100%"
+  height="600px">
+</iframe>
