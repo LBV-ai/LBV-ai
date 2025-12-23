@@ -1,6 +1,6 @@
 ## Hi there, and yes its my photo :)
 <iframe>
-  <src="[https:///yourusername/repositoryname/main/CV.pdf](https://raw.githubusercontent.com/LBV-ai/cv/blob/main/cv_Bronislav_Li_public.pdf
+  src="[https:///yourusername/repositoryname/main/CV.pdf](https://raw.githubusercontent.com/LBV-ai/cv/blob/main/cv_Bronislav_Li_public.pdf
   width="100%"
-  height="600px">
+  height="600px"
 </iframe>
